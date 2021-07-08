@@ -1,7 +1,5 @@
 # AllTheMods-Discord
 
-All The Mods
-======
 This is the official repository and issue-tracker for AllTheMods-Discord
 
 Does "All The Mods" *really* contain ALL THE MODS? No, of course not.
